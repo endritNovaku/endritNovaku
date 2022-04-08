@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endritnovaku&label=Profile%20views&color=0e75b6&style=flat" alt="endritnovaku" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endritnovaku&no-bg=true" alt="endritnovaku" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endritnovaku&no-bg=true&theme=juicyfresh" alt="endritnovaku" /></a> </p>
 
 - 🔭 I’m currently working on [simple_shell](https://github.com/KristiSeraj/simple_shell)
 
